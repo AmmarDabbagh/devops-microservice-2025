@@ -5,8 +5,7 @@
   "scripts": {
     "start": "node index.js",
     "lint": "eslint index.js",
-    "test": "jest",
-    "build": "your-build-command"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
