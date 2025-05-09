@@ -1,5 +1,9 @@
 # DevOps Microservice 2025
 
+Access the deployed project here:
+
+https://devops-microservice-2025.onrender.com
+
 ## 🚀 Project Overview
 
 **DevOps Microservice 2025** is a cloud-native, containerized microservices application designed to demonstrate modern DevOps practices. The project emphasizes scalability, observability, and security, incorporating principles such as CI/CD automation, container orchestration, and DevSecOps.
