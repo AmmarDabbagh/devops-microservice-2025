@@ -21,7 +21,8 @@ The application follows a microservices architecture, with each service encapsul
 * **Order Service**: Processes customer orders.
 * **Database**: Each service has its own database to ensure loose coupling.
 
-![Microservices Architecture Diagram](https://online.visual-paradigm.com/community/share/microservices-diagram-1y1np1s6rf)
+![microservices-diagram](https://github.com/user-attachments/assets/4ea95ad2-d79d-4d73-8a86-a399ab178154)
+
 
 *Note: Replace the above image link with your actual architecture diagram if available.*
 
